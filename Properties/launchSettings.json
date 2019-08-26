@@ -6,8 +6,7 @@
       "launchBrowser": false,
       "applicationUrl": "http://localhost:5000",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development",
-        "NLOG__RULES__CONSOLE__MINLEVEL":  "Info" 
+        "ASPNETCORE_ENVIRONMENT": "Development"
       }
     }
   }
